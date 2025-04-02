@@ -1,4 +1,4 @@
-# WAF_TOR_PL_DUR
+# An Analytical Model for Predicting Tornado Duration and Pathlength
 
 Supporting material for:
 
